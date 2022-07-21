@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/rama/StudioProjects/flutter_drawer_navigation-master/build/image_picker_android/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/home/rama/.gradle/caches/transforms-2/files-2.1/8e86e615f21ac3758e97e94e18045107/core-1.8.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/rama/StudioProjects/flutter_drawer_navigation-master/build/image_picker_android/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/home/rama/.gradle/caches/transforms-2/files-2.1/8e86e615f21ac3758e97e94e18045107/core-1.8.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/rama/StudioProjects/flutter_drawer_navigation-master/build/image_picker_android/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/home/rama/.gradle/caches/transforms-2/files-2.1/8e86e615f21ac3758e97e94e18045107/core-1.8.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/rama/StudioProjects/flutter_drawer_navigation-master/build/image_picker_android/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/home/rama/.gradle/caches/transforms-2/files-2.1/8e86e615f21ac3758e97e94e18045107/core-1.8.0/res/drawable/notification_bg.xml"
+    }
+]

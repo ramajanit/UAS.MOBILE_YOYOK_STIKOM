@@ -1,0 +1,4 @@
+#Fri Jul 22 04:31:55 WIB 2022
+base.0=/home/rama/StudioProjects/UAS_STIKOM.FIK/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
